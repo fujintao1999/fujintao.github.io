@@ -2,15 +2,21 @@
 付锦涛的个人博客网站
 
 &ensp; &#x1F300;付锦涛 
+
 &ensp;&ensp;&ensp; Ph.D. candidate
+
 &ensp;&ensp;&ensp; Tsinghua University
+
 &ensp;&ensp;&ensp; E-mail：fjt21@mails.tsinghua.edu.cn
+
 &ensp;&ensp;&ensp; Location：Beijing, China
+
 &ensp;&ensp;&ensp; Languages: Chinese, English
+
 
 ## &#x1F535; Hello! 
 
-&ensp;&ensp;&ensp; I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [**Peng Cong**](https://www.inet.tsinghua.edu.cn/info/1375/2078.htm). 
+&ensp;&ensp;&ensp; I am a Ph.D. candidate in the [Institute of Nuclear and New Energy Technology (INET)](https://www.inet.tsinghua.edu.cn/index.htm) of [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by [Peng Cong](https://www.inet.tsinghua.edu.cn/info/1375/2078.htm). 
 
 ## &#x1F7E0;Research Interests
 
