@@ -11,7 +11,7 @@
 
 &ensp;&ensp;&ensp; Location：Beijing, China
 
-&ensp;&ensp;&ensp; Languages: Chinese, English
+&ensp;&ensp;&ensp; Languages：Chinese, English
 
 
 ## &#x1F535; Hello! 
@@ -20,11 +20,11 @@
 
 ## &#x1F7E0;Research Interests
 
-&nbsp; 🎈 X-ray Image ; Radiography; Image Reconstruction ;
+&nbsp; 🎈 X-ray Image; Radiography; Image Reconstruction
 
 &nbsp; 🎈 Radiation Source Reverse; Inverse Method
 
-&nbsp; 🎈 Machine Learning ; Deep Learning ; Image Segmentation ; Image Denoising 
+&nbsp; 🎈 Machine Learning; Deep Learning; Image Segmentation; Image Denoising 
 
 
 ## &#x1F7E1; Education
