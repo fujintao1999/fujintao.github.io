@@ -1,6 +1,3 @@
-name: "fujintao's blog"
-description: "付锦涛的个人技术博客"
-
-footer-links:
-  zhihu: 
-  email: 1569006893@qq.com
+theme: jekyll-theme-cayman
+title: "付锦涛 清华大学"
+description: "Personal Homepage of Jintao Fu"
