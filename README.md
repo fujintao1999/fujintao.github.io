@@ -46,6 +46,12 @@
 
 &nbsp;[5]  &#x1F324; 赵波, **付锦涛**, 孙跃文, 丛鹏.利用钴60CT成像技术重建木构文物的实验研究[J].建筑史学刊,2023,4(01):122-131.
 
+&nbsp;[6]  &#x1F324; Shuo Xu, Yuewen Sun, Yucheng Zhang, Jintao Fu, Xincheng Xiang, Peng Cong. Deep Radon Prior: A Fully Unsupervised Framework for Inverse Problems in Imaging.[C]// 2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference.
+
+&nbsp;[7]  &#x1F324; 付锦涛,孙跃文,曾天辰,丛鹏. 基于60Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
+
+&nbsp;[8]  &#x1F324; 曾天辰,孙跃文,付锦涛,从鹏. 同位素射线源形状对射线成像的影响[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
+
  <p align="right">
   <b><i>
   Copyright &#x00A9; 2024 Jintao Fu. 
