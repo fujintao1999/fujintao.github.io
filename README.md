@@ -20,11 +20,11 @@
 
 ## &#x1F7E0;Research Interests
 
-&nbsp; 🎈 X-ray Image; Radiography; Image Reconstruction
+&nbsp; 🎈 X-ray Image; Radiography; Medical Physics; 
 
-&nbsp; 🎈 Radiation Source Reverse; Inverse Method
+&nbsp; 🎈 Machine Learning; Deep Learning; Computer Visualization; 
 
-&nbsp; 🎈 Machine Learning; Deep Learning; Image Segmentation; Image Denoising 
+&nbsp; 🎈 Image Segmentation; Image Denoising; Image Reconstruction. 
 
 
 ## &#x1F7E1; Education
