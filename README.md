@@ -36,19 +36,19 @@
 
 ## &#x1F7E2;Publications & Preprint
 
-&#x1F324; &nbsp;[1]  **Jintao Fu**, Renjie Liu, Yuewen Sun, Tianchen Zeng, Haoyu Liu, Shuo Xu, Peng Cong. RESEARCH ON INTELLIGENT DETECTION OF DEFECTS IN HTR-PM GRAPHITE AND CARBON COMPONENTS BASED ON DEEP LEARNING[C]//The Proceedings of the International Conference on Nuclear Engineering (ICONE) 2023.30. The Japan Society of Mechanical Engineers, 2023: 1268.
+&#x1F324; &nbsp;[1]  **Jintao Fu**, Renjie Liu, Yuewen Sun, Tianchen Zeng, Haoyu Liu, Shuo Xu, Peng Cong. Research on Intelligent Detection of Defects in HTR-PM Graphite and Carbon Components Based on Deep Learning[C]//The Proceedings of the International Conference on Nuclear Engineering (ICONE) 2023.30. The Japan Society of Mechanical Engineers, 2023: 1268.
 
-&#x1F324; &nbsp;[2]  Tianchen Zeng, Yuewen Sun, Renjie Liu, Haoyu Liu, Shuo Xu, Gang Chen, **Jintao Fu**, Peng Cong. MONTE CARLO-BASED SCATTER CORRECTION METHOD FOR CT NON-DESTRUCTIVE DETECTION OF CARBON/GRAPHITE BRICKS IN HTGR[C]//The Proceedings of the International Conference on Nuclear Engineering (ICONE) 2023.30. The Japan Society of Mechanical Engineers, 2023: 1270.
+&#x1F324; &nbsp;[2]  Tianchen Zeng, Yuewen Sun, Renjie Liu, Haoyu Liu, Shuo Xu, Gang Chen, **Jintao Fu**, Peng Cong. Monte Carlo-Based Scatter Correction Method for CT Non-Destructive Detection of Carbon/Graphite Bricks in HTGR[C]//The Proceedings of the International Conference on Nuclear Engineering (ICONE) 2023.30. The Japan Society of Mechanical Engineers, 2023: 1270.
 
-&#x1F324; &nbsp;[3]  Lei Li, Kechao Lian, **Jintao Fu**, Pengfei Zhu, Zhiyong Hu, Ce Guo. Acoustic enhanced camera tracking system based on small-aperture MEMS microphone array[J]. IEEE Access, 2020, 8: 215827-215839.
+&#x1F324; &nbsp;[3]  Lei Li, Kechao Lian, **Jintao Fu**, Pengfei Zhu, Zhiyong Hu, Ce Guo. Acoustic Enhanced Camera Tracking System Based on Small-Aperture MEMS Microphone Array[J]. IEEE Access, 2020, 8: 215827-215839.
 
-&#x1F324; &nbsp;[4]  Lei Li, Linfeng Wang, Jie Dong, **Jintao Fu**, Yang Gao, Yingying Qiao and Mingfu Zhu. SuperSoundcompass: a high-accuracy acoustic localization sensor using a small-aperture microphone array[J]. Measurement Science and Technology, 2021, 32(10): 105106.
+&#x1F324; &nbsp;[4]  Lei Li, Linfeng Wang, Jie Dong, **Jintao Fu**, Yang Gao, Yingying Qiao and Mingfu Zhu. SuperSoundcompass: A High-accuracy Acoustic Localization Sensor Using A Small-aperture Microphone Array[J]. Measurement Science and Technology, 2021, 32(10): 105106.
 
 &#x1F324; &nbsp;[5]  赵波, **付锦涛**, 孙跃文, 丛鹏.利用钴60CT成像技术重建木构文物的实验研究[J].建筑史学刊,2023,4(01):122-131.
 
 &#x1F324; &nbsp;[6]  Shuo Xu, Yuewen Sun, Yucheng Zhang, **Jintao Fu**, Xincheng Xiang, Peng Cong. Deep Radon Prior: A Fully Unsupervised Framework for Inverse Problems in Imaging[C]//2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference.
 
-&#x1F324; &nbsp;[7]  **付锦涛**,孙跃文,曾天辰,丛鹏. 基于60Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.（优秀青年论文）
+&#x1F324; &nbsp;[7]  **付锦涛**,孙跃文,曾天辰,丛鹏. 基于^60Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.（优秀青年论文）
 
 &#x1F324; &nbsp;[8]  曾天辰,孙跃文,**付锦涛**,从鹏. 同位素射线源形状对射线成像的影响[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
 
