@@ -1,7 +1,7 @@
 ## fujintao.github.io
 付锦涛的个人博客网站
 
-&ensp; &#x1F300;付锦涛 
+&ensp; &#x1F300;付锦涛 Jintao Fu
 
 &ensp;&ensp;&ensp; Ph.D. candidate
 
