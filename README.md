@@ -46,11 +46,27 @@
 
 &nbsp;[5]  &#x1F324; 赵波, **付锦涛**, 孙跃文, 丛鹏.利用钴60CT成像技术重建木构文物的实验研究[J].建筑史学刊,2023,4(01):122-131.
 
-&nbsp;[6]  &#x1F324; Shuo Xu, Yuewen Sun, Yucheng Zhang, Jintao Fu, Xincheng Xiang, Peng Cong. Deep Radon Prior: A Fully Unsupervised Framework for Inverse Problems in Imaging.[C]// 2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference.
+&nbsp;[6]  &#x1F324; Shuo Xu, Yuewen Sun, Yucheng Zhang, **Jintao Fu**, Xincheng Xiang, Peng Cong. Deep Radon Prior: A Fully Unsupervised Framework for Inverse Problems in Imaging[C]//2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference.
 
-&nbsp;[7]  &#x1F324; 付锦涛,孙跃文,曾天辰,丛鹏. 基于60Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
+&nbsp;[7]  &#x1F324; **付锦涛**,孙跃文,曾天辰,丛鹏. 基于60Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.（优秀青年论文）
 
-&nbsp;[8]  &#x1F324; 曾天辰,孙跃文,付锦涛,从鹏. 同位素射线源形状对射线成像的影响[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
+&nbsp;[8]  &#x1F324; 曾天辰,孙跃文,**付锦涛**,从鹏. 同位素射线源形状对射线成像的影响[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
+
+&nbsp;[9]  &#x1F324; **Jintao Fu**, Jiahao Chang, Yuewen Sun, et al. Enhancing Image Quality in Limited-angle CT Reconstruction for Reactor Pressure Pipelines Detection[C]//The Proceedings of the International Conference on Nuclear Engineering (ICONE) 2024.31.
+
+&nbsp;[10]  &#x1F324; Jiahao Chang, **Jintao Fu**, Peng Tang, et al. Calculation of Noble Gas Ion Mobility Based on SRK EOS Under High-Pressure[C]//The Proceedings of the International Conference on Nuclear Engineering (ICONE) 2024.31.
+
+&nbsp;[11]  &#x1F324; Shuo Xu, **Jintao Fu**, Yuewen Sun, et al. Deep Radon Prior: A Fully Unsupervised Framework for Sparse-View CT Reconstruction[J].Medical Physics, 2024. (Under Review)
+
+&nbsp;[12]  &#x1F324; **Jintao Fu**, Peng Cong, Shuo Xu, et al. Neural Architecture Search with Deep Radon Prior for Sparse-view CT Image Reconstruction[J].Medical Physics, 2024. (Under Review)
+
+&nbsp;[13]  &#x1F324; **Jintao Fu**, Renjie Liu, Tianchen Zeng, et al. A Study on CT Detection Image Generation Based on Decompound Synthesize Method[J].Journal of X-Ray Science and Technology, 2024. (Under Review)
+
+&nbsp;[14]  &#x1F324; Tianchen Zeng, **Jintao Fu**, Peng Cong, et al. Research on Ring Artifact Reduction Method for CT Images of Nuclear Graphite Components[J].Annals of Nuclear Energy, 2024. (Under Review)
+
+&nbsp;[15]  &#x1F324; Jiahao Chang, Shuo Xu, **Jintao Fu**, et al. UA-DIP: Unsupervised Image Deblurring via ADMM and Deep Image Prior[J].Neurocomputing, 2024. (Under Review)
+
+&nbsp;[16]  &#x1F324; **Jintao Fu**, Shuo Xu, Xincheng Xiang, Peng Cong, Yuewen Sun. Deep Radon Prior: A Fully Unsupervised Framework for Sparse-View CT Reconstruction[C]//The 11th Medical Image Computing Seminar, MICS 2024.
 
  <p align="right">
   <b><i>
