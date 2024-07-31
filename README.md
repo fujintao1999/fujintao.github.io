@@ -1,5 +1,5 @@
 ## fujintao.github.io
-付锦涛的个人博客网站
+Personal Homepage of Jintao Fu
 
 &ensp; &#x1F300;付锦涛 Jintao Fu
 
@@ -29,7 +29,7 @@
 
 ## &#x1F7E1; Education
 
-&ensp;&ensp;&ensp; 2017.08  - 2021.06 ： Zhengzhou University  （Bachelor）
+&ensp;&ensp;&ensp; 2017.08  - 2021.07 ： Zhengzhou University  （Bachelor）
 
 &ensp;&ensp;&ensp; 2021.08  - 2026.06 ： Tsinghua University  （Ph.D. candidate）
 
