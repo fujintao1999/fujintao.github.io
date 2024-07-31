@@ -48,7 +48,7 @@
 
 &#x1F324; &nbsp;[6]  Shuo Xu, Yuewen Sun*, Yucheng Zhang, **Jintao Fu**, Xincheng Xiang, Peng Cong. Deep Radon Prior: A Fully Unsupervised Framework for Inverse Problems in Imaging[C]//2023 IEEE Nuclear Science Symposium, Medical Imaging Conference and Room Temperature Semiconductor Detector Conference.
 
-&#x1F324; &nbsp;[7]  **付锦涛**,孙跃文,曾天辰,丛鹏*. 基于^60^Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.（优秀青年论文）
+&#x1F324; &nbsp;[7]  **付锦涛**,孙跃文,曾天辰,丛鹏*. 基于<sup> 60</sup>Co CT系统的木结构古建筑检测方法研究[C] // 2023全国同位素制备及应用技术交流研讨会.2023.（优秀青年论文）
 
 &#x1F324; &nbsp;[8]  曾天辰,孙跃文,**付锦涛**,从鹏*. 同位素射线源形状对射线成像的影响[C] // 2023全国同位素制备及应用技术交流研讨会.2023.
 
