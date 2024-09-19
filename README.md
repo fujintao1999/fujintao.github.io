@@ -68,6 +68,8 @@ Personal Homepage of Jintao Fu
 
 &#x1F324; &nbsp;[16]  **Jintao Fu**, Shuo Xu, Xincheng Xiang, Peng Cong, Yuewen Sun*. Deep Radon Prior: A Fully Unsupervised Framework for Sparse-View CT Reconstruction[C]//The 11th Medical Image Computing Seminar, MICS 2024.
 
+&#x1F324; &nbsp;[17]  **Jintao Fu**, Peng Cong, Yuewen Sun*. ESRTMDet: Robust Recognition of Industrial 2D Barcodes in Complex Environments[C]//The 8th International Symposium on Computer Science and Intelligent Control, ICSIC 2024.
+
  <p align="right">
   <b><i>
   Copyright &#x00A9; 2024 Jintao Fu. 
